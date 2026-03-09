@@ -1,3 +1,4 @@
-# data
-data/
-
+# dataset
+data/*
+!data/README.md
+!data/.gitkeep
